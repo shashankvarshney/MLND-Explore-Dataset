@@ -2,6 +2,26 @@
 
 # Table of Contents
 
+- [Project description](#project-description)
+- [Environment and Programming language](#environment-and-programming-language)
+- [Data Description](#data-description)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+  * [Reading the Data](#reading-the-data)
+  * [Data Exploration](#data-exploration)
+    + [Missing Values](#missing-values)
+    + [Checking data types of each columns](#checking-data-types-of-each-columns)
+  * [Data Cleaning](#data-cleaning)
+    + [Analysis of missing values in Team_Attributes table](#analysis-of-missing-values-in-team-attributes-table)
+  * [Visualization](#visualization)
+- [Significance Testing](#significance-testing)
+  * [Hypothesis Creation](#hypothesis-creation)
+    + [Hypothesis parameters Calculations](#hypothesis-parameters-calculations)
+- [Conclusions](#conclusions)
+  * [Question 1: Are average goals scored by home teams are higher than the average goals scored by away teams?](#question-1--are-average-goals-scored-by-home-teams-are-higher-than-the-average-goals-scored-by-away-teams-)
+  * [Question 2: Is there any home advantage? Are home teams have more victories than away teams?](#question-2--is-there-any-home-advantage--are-home-teams-have-more-victories-than-away-teams-)
+  * [Question 3: Are average goals scored by home teams are statistically higher than the average goals scored by away teams?](#question-3--are-average-goals-scored-by-home-teams-are-statistically-higher-than-the-average-goals-scored-by-away-teams-)
+- [Limitations of the data](#limitations-of-the-data)
+
 ## Project description
 
 In this project, soccer data has been explored and following questions will be answered:
